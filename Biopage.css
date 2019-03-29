@@ -18,3 +18,10 @@ body{
   font-style: italic;
   color:white;
 }
+
+#projects{
+  background-image: url(Capture1.PNG);
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+}
